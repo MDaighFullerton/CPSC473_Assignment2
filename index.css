@@ -1,0 +1,135 @@
+﻿.main {
+    margin: auto;
+    margin-top: 80px;
+    width: 50%;
+    height: 100%;
+}
+
+/* Search section (top middle) */
+.search-section {
+    padding: 20px 0px;
+    text-align: center;
+    border: 1px solid #000000;
+}
+
+.search {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.option {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+input[type=text] {
+    padding: 0;
+    height: 24px;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+
+input[type=text]:invalid {
+    box-shadow: 0 0 5px 1px red;
+    border: 1px solid red;
+}
+
+.button {
+    display: inline-block;
+    margin: 0px 30px;
+    padding: 5px 10px;
+    background-color: #008CBA;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.button:active {
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+    background-color: #007ea8;
+}
+
+/* Student section (bottom) */
+.student-section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.header {
+    padding: 20px 20px 0px 40px;
+    font-weight: bold;
+}
+
+.bottom-boxes {
+    border: 1px solid #000000;
+    border-top: 0px;
+    height: 100%;
+    min-height: 250px;
+    flex: 1 1 50%;
+}
+
+/* Students found section (bottom left) */
+.student-found {
+
+}
+
+.students {
+    margin: 0px 20%;
+    padding: 0px;
+    list-style: none;
+}
+
+.students li {
+    padding: 5px 0px;
+    text-align: center;
+}
+
+.student-select:hover {
+    cursor: pointer;
+    background-color: rgba(35, 167, 255, 0.6)
+}
+
+.student-select:hover {
+    cursor: pointer;
+    background-color: rgba(35, 167, 255, 0.6)
+}
+
+.student-select:active {
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+    background-color: rgba(32, 152, 232, 0.6);
+}
+
+/* Grade section (bottom right) */
+.student-grades {
+    border-left: 0px;
+}
+
+.grades {
+    margin-top: 1em;
+}
+
+.grades-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.grades-table table,
+.grades-table th,
+.grades-table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.grades-table th,
+.grades-table td{
+    text-align: center;
+}

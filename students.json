@@ -1,0 +1,6502 @@
+[
+  {
+    "FirstName": "Vickie",
+    "LastName": "Aguas",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Alvera",
+    "LastName": "Albarran",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Fae",
+    "LastName": "Aldrete",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Darcie",
+    "LastName": "Amerman",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Assunta",
+    "LastName": "Aragon",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lauren",
+    "LastName": "Barclay",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Margene",
+    "LastName": "Barham",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lesa",
+    "LastName": "Barhorst",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Alejandro",
+    "LastName": "Bechtol",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Olinda",
+    "LastName": "Beck",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rosita",
+    "LastName": "Bellah",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mayme",
+    "LastName": "Bellone",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Robyn",
+    "LastName": "Bernal",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Reanna",
+    "LastName": "Betances",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Wyatt",
+    "LastName": "Bethea",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Brinda",
+    "LastName": "Birkland",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nona",
+    "LastName": "Blackstone",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Selena",
+    "LastName": "Blankenbaker",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Earlie",
+    "LastName": "Boltz",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Brittni",
+    "LastName": "Bomgardner",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dolly",
+    "LastName": "Borchers",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Isabelle",
+    "LastName": "Bothwell",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Joselyn",
+    "LastName": "Bradwell",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lawrence",
+    "LastName": "Brawley",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Amos",
+    "LastName": "Brayman",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Tena",
+    "LastName": "Brazzell",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kory",
+    "LastName": "Brion",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ronnie",
+    "LastName": "Britain",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cherilyn",
+    "LastName": "Broadhurst",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Aurelio",
+    "LastName": "Brownell",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Imogene",
+    "LastName": "Bruce",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Coleen",
+    "LastName": "Bruce",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Quyen",
+    "LastName": "Bunch",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Asuncion",
+    "LastName": "Campuzano",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Darla",
+    "LastName": "Carner",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mignon",
+    "LastName": "Casagrande",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kiley",
+    "LastName": "Caufield",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jo",
+    "LastName": "Chester",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Helga",
+    "LastName": "Christy",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sanjuanita",
+    "LastName": "Chunn",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kelli",
+    "LastName": "Cleary",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Christia",
+    "LastName": "Covarrubias",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shelli",
+    "LastName": "Crace",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marissa",
+    "LastName": "Crist",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cierra",
+    "LastName": "Croce",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cole",
+    "LastName": "Croteau",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Amberly",
+    "LastName": "Cruickshank",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Randi",
+    "LastName": "Currey",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Donald",
+    "LastName": "Cushman",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Greta",
+    "LastName": "Dandy",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mica",
+    "LastName": "Degraw",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cayla",
+    "LastName": "Dejesus",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Claudie",
+    "LastName": "Delzell",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mistie",
+    "LastName": "Derrickson",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Yan",
+    "LastName": "Devault",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Arminda",
+    "LastName": "Devera",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Joann",
+    "LastName": "Domina",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Violet",
+    "LastName": "Duhon",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Emiko",
+    "LastName": "Dupont",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lasonya",
+    "LastName": "Duron",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cathie",
+    "LastName": "Edds",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Maragret",
+    "LastName": "Egnor",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marceline",
+    "LastName": "Ekdahl",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Palma",
+    "LastName": "Ensey",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Antonette",
+    "LastName": "Esperanza",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Laurene",
+    "LastName": "Espey",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Christeen",
+    "LastName": "Etsitty",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Elinore",
+    "LastName": "Eversole",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Leonel",
+    "LastName": "Firth",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Stacy",
+    "LastName": "Fleck",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shonta",
+    "LastName": "Flynn",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mazie",
+    "LastName": "Fonseca",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shanelle",
+    "LastName": "Gahan",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lahoma",
+    "LastName": "Gailey",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Donetta",
+    "LastName": "Galusha",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Arianna",
+    "LastName": "Gan",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Soila",
+    "LastName": "Gayton",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "Godsey",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Concepcion",
+    "LastName": "Gow",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Brady",
+    "LastName": "Groom",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Flavia",
+    "LastName": "Guel",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Danyel",
+    "LastName": "Hackney",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Fredda",
+    "LastName": "Hallett",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Letitia",
+    "LastName": "Halsell",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ivonne",
+    "LastName": "Hammersley",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Alita",
+    "LastName": "Hammitt",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Yan",
+    "LastName": "Hardie",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mabelle",
+    "LastName": "Harshberger",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Juliet",
+    "LastName": "Hazan",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kelsi",
+    "LastName": "Hazlewood",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Beatrice",
+    "LastName": "Heatherington",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bud",
+    "LastName": "Hippert",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Donella",
+    "LastName": "Hird",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kori",
+    "LastName": "Hisey",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dannielle",
+    "LastName": "Howlett",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": "Huizar",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Wilburn",
+    "LastName": "Huizenga",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Stacie",
+    "LastName": "Hutchins",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Starla",
+    "LastName": "Iman",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Matilde",
+    "LastName": "Iorio",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Young",
+    "LastName": "Ivester",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Latarsha",
+    "LastName": "Janson",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jenice",
+    "LastName": "Jared",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Virgina",
+    "LastName": "Jason",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Erlene",
+    "LastName": "Jefferys",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lavonia",
+    "LastName": "Jeppson",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Stefanie",
+    "LastName": "Kee",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sindy",
+    "LastName": "Kerber",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jammie",
+    "LastName": "Knights",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Raymonde",
+    "LastName": "Kreidler",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Carmina",
+    "LastName": "Lamons",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Charlene",
+    "LastName": "Lampkins",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lillie",
+    "LastName": "Laperle",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Simon",
+    "LastName": "Lasala",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Earline",
+    "LastName": "Lauzon",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Candace",
+    "LastName": "Leathers",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Crystal",
+    "LastName": "Lemoine",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marg",
+    "LastName": "Lenk",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Julieann",
+    "LastName": "Lester",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cammy",
+    "LastName": "Licari",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Clyde",
+    "LastName": "Lindo",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jeane",
+    "LastName": "Litherland",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kimber",
+    "LastName": "Lott",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shameka",
+    "LastName": "Lundy",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Tifany",
+    "LastName": "Machado",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Judson",
+    "LastName": "Madera",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Digna",
+    "LastName": "Magallan",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Virgina",
+    "LastName": "Maio",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Melynda",
+    "LastName": "Marrinan",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Elinore",
+    "LastName": "Mcclaren",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Librada",
+    "LastName": "Mccown",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marilynn",
+    "LastName": "Mcie",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jaymie",
+    "LastName": "Mcinturff",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Samual",
+    "LastName": "Mcintyre",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Leah",
+    "LastName": "Mckee",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Julieta",
+    "LastName": "Mclemore",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Moon",
+    "LastName": "Mcninch",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ewa",
+    "LastName": "Means",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Blythe",
+    "LastName": "Mendell",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Halley",
+    "LastName": "Mendosa",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Susie",
+    "LastName": "Montalto",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Renato",
+    "LastName": "Moon",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Hannah",
+    "LastName": "Nelms",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Heide",
+    "LastName": "Nivens",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Araceli",
+    "LastName": "Ocasio",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mack",
+    "LastName": "Ocheltree",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kam",
+    "LastName": "Ogawa",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Desire",
+    "LastName": "Ogorman",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Aleshia",
+    "LastName": "Okafor",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lisha",
+    "LastName": "Olsen",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bethany",
+    "LastName": "Omara",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nichole",
+    "LastName": "Orosz",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Hanh",
+    "LastName": "Ostendorf",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Libbie",
+    "LastName": "Ozuna",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Elizbeth",
+    "LastName": "Palau",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ignacia",
+    "LastName": "Patel",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rochell",
+    "LastName": "Peace",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Catharine",
+    "LastName": "Pederson",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Brandy",
+    "LastName": "Pedroso",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mel",
+    "LastName": "Perna",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Danette",
+    "LastName": "Petrosino",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sarah",
+    "LastName": "Pietz",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Eura",
+    "LastName": "Pigg",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Janie",
+    "LastName": "Pille",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jasmin",
+    "LastName": "Pinero",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lane",
+    "LastName": "Pinkerton",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Buena",
+    "LastName": "Piotrowski",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Karma",
+    "LastName": "Pixler",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kandra",
+    "LastName": "Pompey",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Devona",
+    "LastName": "Przybyla",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Deirdre",
+    "LastName": "Quon",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Yvone",
+    "LastName": "Rand",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rudolph",
+    "LastName": "Rank",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Gertrude",
+    "LastName": "Rasmusson",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jewell",
+    "LastName": "Ravenell",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dominga",
+    "LastName": "Reding",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Adrianna",
+    "LastName": "Rees",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Angelique",
+    "LastName": "Rezentes",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bernadine",
+    "LastName": "Rizzi",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Justa",
+    "LastName": "Rocchio",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Etha",
+    "LastName": "Rodela",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lannie",
+    "LastName": "Rollo",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Caleb",
+    "LastName": "Roussel",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nia",
+    "LastName": "Rowe",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Cherie",
+    "LastName": "Rowser",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mariam",
+    "LastName": "Rueter",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kala",
+    "LastName": "Rusek",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Oren",
+    "LastName": "Rusher",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Augustina",
+    "LastName": "Ryce",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dillon",
+    "LastName": "Sankey",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Audry",
+    "LastName": "Sano",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jefferson",
+    "LastName": "Sassman",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Carie",
+    "LastName": "Scalzo",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Stefanie",
+    "LastName": "Schaar",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bradley",
+    "LastName": "Schapiro",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Carrol",
+    "LastName": "Schneller",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rebbecca",
+    "LastName": "Schoening",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Classie",
+    "LastName": "Schooley",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Waylon",
+    "LastName": "Seagle",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jena",
+    "LastName": "Seitz",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sherell",
+    "LastName": "Settles",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Hildegard",
+    "LastName": "Shadle",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Seth",
+    "LastName": "Sheridan",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Timothy",
+    "LastName": "Shorter",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Augustine",
+    "LastName": "Sidoti",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Corrina",
+    "LastName": "Siemers",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Brynn",
+    "LastName": "Slane",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ike",
+    "LastName": "Stack",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Suzanna",
+    "LastName": "Stackpole",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Logan",
+    "LastName": "Stanford",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Devorah",
+    "LastName": "Steuck",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rosie",
+    "LastName": "Stpierre",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Darnell",
+    "LastName": "Strand",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nelda",
+    "LastName": "Stromain",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bonny",
+    "LastName": "Su",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jenny",
+    "LastName": "Su",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Loraine",
+    "LastName": "Szczepanski",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jen",
+    "LastName": "Teegarden",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nickolas",
+    "LastName": "Tekulve",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nita",
+    "LastName": "Tessman",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Carry",
+    "LastName": "Thetford",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Rocio",
+    "LastName": "Thibeaux",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Caroline",
+    "LastName": "Threet",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Samatha",
+    "LastName": "Tiller",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Natalia",
+    "LastName": "Titus",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bryan",
+    "LastName": "Tolliver",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Veda",
+    "LastName": "Trejo",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bobbie",
+    "LastName": "Turnbull",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Corrine",
+    "LastName": "Tyndall",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Peggy",
+    "LastName": "Ullman",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Myrtie",
+    "LastName": "Vang",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jody",
+    "LastName": "Varnado",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Estelle",
+    "LastName": "Veiga",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sona",
+    "LastName": "Vicari",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Donovan",
+    "LastName": "Volkman",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marisha",
+    "LastName": "Weekley",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Thaddeus",
+    "LastName": "Weiser",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mariko",
+    "LastName": "Whisnant",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "FirstName": "Tabetha",
+    "LastName": "Whittemore",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Joette",
+    "LastName": "Winget",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Diego",
+    "LastName": "Winnett",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Flor",
+    "LastName": "Wolter",
+    "Classes": [
+      {
+        "Course": "CPSC 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "ENGL 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 400",
+        "Grade": "D"
+      }
+    ]
+  },
+  {
+    "FirstName": "Kaley",
+    "LastName": "Woolf",
+    "Classes": [
+      {
+        "Course": "CPSC 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MATH 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Colette",
+    "LastName": "Work",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dana",
+    "LastName": "Worrall",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Alison",
+    "LastName": "Wynne",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Hester",
+    "LastName": "Yelverton",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 500",
+        "Grade": "F"
+      }
+    ]
+  },
+  {
+    "FirstName": "Angila",
+    "LastName": "You",
+    "Classes": [
+      {
+        "Course": "CPSC 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "MATH 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MUS 100",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "FirstName": "Lizbeth",
+    "LastName": "Zahler",
+    "Classes": [
+      {
+        "Course": "CPSC 200",
+        "Grade": "B"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 500",
+        "Grade": "F"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 200",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "FirstName": "Elnora",
+    "LastName": "Zamarripa",
+    "Classes": [
+      {
+        "Course": "CPSC 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "ENGL 300",
+        "Grade": "C"
+      },
+      {
+        "Course": "HIST 400",
+        "Grade": "D"
+      },
+      {
+        "Course": "MATH 100",
+        "Grade": "A"
+      },
+      {
+        "Course": "MUS 300",
+        "Grade": "C"
+      }
+    ]
+  }
+]

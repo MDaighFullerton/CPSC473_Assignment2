@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Student Search</title>
+    <link type="text/css" rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" />
+    <link type="text/css" rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <div class="main">
+        <div class="search-section">
+            <div class="search">
+                <label for="searchBox" class="option">Last Name:</label>
+                <input type="text" pattern="[a-zA-Z]+" id="searchBox" tabindex="1" title="Letters only" autocomplete="off" />
+            </div>
+            <div class="button" id="search" tabindex="2">Search</div>
+        </div>
+        <div class="student-section">
+            <div class="student-found bottom-boxes">
+                <div class="header">Students Found:</div>
+                <ul class="students" id="student-list">
+                    <li>No students found</li>
+                </ul>
+            </div>
+            <div class="student-grades bottom-boxes">
+                <div class="header">Grades for {{studentName}}:</div>
+                <div class="grades">
+                    <table class="grades-table">
+                        <thead>
+                            <tr>
+                                <th>Course</th>
+                                <th>GPA</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="2">No student selected</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="model.js"></script>
+    <script src="view.js"></script>
+    <script src="controller.js"></script>
+</body>
+</html>
